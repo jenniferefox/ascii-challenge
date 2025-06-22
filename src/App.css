@@ -1,0 +1,35 @@
+#root {
+  max-width: 1280px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#container {
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
+
+#container canvas, #overlay {
+  position: absolute;
+}
+
+span {
+  position: absolute;
+}
+
+#button {
+  align-items: center;
+}
+
+#button, #overlay {
+  margin-left: 35px;
+  width: 120px;
+  height: 40px
+}
+
+span.ant-upload-list-item-name {
+  margin-left: 175px;
+  background-color: white;
+}

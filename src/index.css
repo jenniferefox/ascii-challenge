@@ -1,0 +1,15 @@
+:root {
+  background-color: #242424;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  padding: 0;
+}
+
+span {
+  padding: 0;
+  margin: 0;
+}
